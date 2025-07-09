@@ -86,4 +86,4 @@ Manish Aryan
 Frontend Developer | React.js | UI Specialist
 
 
-https://github.com/Manish019/FullyEcommerceShoppyGlobe
+https://github.com/Manish019/shoppygrobal_project
